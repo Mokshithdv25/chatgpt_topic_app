@@ -94,7 +94,7 @@ https://colab.research.google.com/drive/1BbfI7oq42HcpyFprCbfIRfoj2ZsIfC5l?usp=sh
 https://github.com/Mokshithdv25/chatgpt_topic_app
 
 ### **Video Presentation**  
-(Add YouTube or Zoom link after recording)
+https://youtu.be/wEo03d23Oyg
 
 ---
 
