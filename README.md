@@ -93,8 +93,8 @@ https://colab.research.google.com/drive/1BbfI7oq42HcpyFprCbfIRfoj2ZsIfC5l?usp=sh
 ### **GitHub Repository**  
 https://github.com/Mokshithdv25/chatgpt_topic_app
 
-### **Slide Deck (PDF)**  
-(Add after exporting)
+### **Slide Deck **  
+https://docs.google.com/presentation/d/1xrfJ9JpTBFVdScJOc2JifD4K1AeNbdHgHDwfs7c8NuQ/edit?usp=sharing
 
 ### **Video Presentation**  
 (Add YouTube or Zoom link after recording)
