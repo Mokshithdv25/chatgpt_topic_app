@@ -50,6 +50,7 @@ The deployed Streamlit application allows users to:
 - Run automated LDA & NMF topic modeling  
 - View **aggregated topic distributions** (professional and safer than row-level predictions)  
 - Download a full CSV of predictions  
+- **Generate AI PRD Documents**: Feed the topic modeling distributions and representative reviews directly to OpenAI or Google Gemini APIs to generate a structured, feature-by-feature Product Requirements Document (PRD) with prioritization, tradeoffs, acceptance criteria, and confidence scores. Includes a robust "Demo Mode" fallback.
 
 ### **Run Locally**
 ```bash
